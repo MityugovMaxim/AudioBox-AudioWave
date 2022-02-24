@@ -1,0 +1,15 @@
+{
+    "name": "AudioBox.AudioWaveEditor",
+    "references": [
+        "GUID:4212fc9416c564483ba61f503f4ff13d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
